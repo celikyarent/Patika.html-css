@@ -11,6 +11,6 @@ Ben Yaren Çelik. Burada Patika eğitimimde yaptığım ödevleri görmektesiniz
 ## License
 ---
 Depo Linki:
->   https://github.com/celikyarent/Patikahtml.git
+>   https://github.com/celikyarent/Patika.kodluyoruz.git
 
 [MIT](https://choosealicense.com/licenses/mit/)
