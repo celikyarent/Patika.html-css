@@ -1,0 +1,44 @@
+
+
+                        .button1{
+                          color:darkslateblue;
+                          border-top: blueviolet;
+                          background-color: rgba(133, 95, 103, 0.432);
+                        }
+
+              .h1{
+                width: 250px;
+                 padding: 10px;    
+                margin: 10px;
+                font-size:xx-large ;
+                font-family: cursive;
+                color:darkslateblue;
+              ;}
+             
+            
+
+.body{
+  background:rgba(133, 95, 103, 0.432) ;
+  font-family: Times New Roman, Arial, Helvatica;
+}
+
+.p{
+  font-family: cursive;
+  font-size: large;
+}
+
+
+.icon{
+  border-top: blueviolet;
+  background-color: rgba(133, 95, 103, 0.432)
+}
+
+.Kategoriler{
+   width: 1150px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 10px;
+    font-size: medium;
+    font-family: cursive;
+}
+
