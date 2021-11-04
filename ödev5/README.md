@@ -22,6 +22,7 @@ Google 1996 yılında kuruldu ve ilk versiyonunu 1998 yılında yayınladı. 199
 ¨Tasarladığınız bölümler ile alakalı kodunuzda açıklama satırlarına yer veriniz.
 ¨Sayfa ile alakalı detaylara sayfanın üzerine sağ tıklayıp "İncele/Inspect" diyerek ulaşabilirsiniz.
 ¨Aşağıdaki logo'yu kullanabilirsiniz.
+<hr>
 ![Google Logo](https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg)
 
 ## Kaynaklar
