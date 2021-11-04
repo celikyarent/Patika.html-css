@@ -6,7 +6,7 @@ Merhabalar
 GitHub Projeme HOŞGELDİNİZ
 ---
 
-Ben Yaren Çelik. Burada Patika eğitimimde yaptığım ödevleri görmektesiniz. Temel eğitimden sonra aldığım github ,html,css eğitimlerimin ödevleri sırasıyla bu depoda bulunmaktadır.
+Ben Yaren Çelik. Burada Patika eğitimimde yaptığım ödevleri görmektesiniz. Temel eğitimden sonra aldığım github ,html,css ve JS eğitimlerimin ödevleri sırasıyla bu depoda bulunmaktadır.
 
 ## License
 ---
